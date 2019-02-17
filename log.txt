@@ -1,0 +1,101 @@
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this,shinedown
+The Crown Coliseum: Fayetteville, NC, United States: 02/22/2019
+Knoxville Civic Auditorium and Coliseum: Knoxville, TN, United States: 02/23/2019
+Hertz Arena: Estero, FL, United States: 02/20/2019
+Big Sandy Superstore Arena: Huntington, WV, United States: 02/24/2019
+UMBC Event Center: Baltimore, MD, United States: 02/28/2019
+Giant Center: Hershey, PA, United States: 03/01/2019
+WSU Nutter Center: Fairborn, OH, United States: 02/26/2019
+Mohegan Sun Arena: Uncasville, CT, United States: 03/02/2019
+Covelli Centre: Youngstown, OH, United States: 03/05/2019
+Allen County War Memorial Coliseum: Fort Wayne, IN, United States: 03/07/2019
+Fiserv Forum: Milwaukee, WI, United States: 03/08/2019
+Brown County Veterans Memorial Arena: Green Bay, WI, United States: 03/09/2019
+Target Center: Minneapolis, MN, United States: 03/11/2019
+FargoDome: Fargo, ND, United States: 03/12/2019
+Pinnacle Bank Arena: Lincoln, NE, United States: 03/15/2019
+U.S. Cellular Center : Cedar Rapids, IA, United States: 03/16/2019
+Chaifetz Arena: St. Louis, MO, United States: 03/17/2019
+INTRUST Bank Arena: Wichita, KS, United States: 03/19/2019
+Budweiser Events Center: Loveland, CO, United States: 03/20/2019
+KFMA Day: Tucson, AZ, United States: 03/23/2019
+Beale Street Music Festival: Memphis, TN, United States: 05/03/2019
+Welcome To Rockville: Jacksonville, FL, United States: 05/04/2019
+An Evening With Shinedown: New Orleans, LA, United States: 05/06/2019
+An Evening With Shinedown: Atlanta, GA, United States: 05/07/2019
+An Evening With Shinedown: Atlanta, GA, United States: 05/08/2019
+An Evening With Shinedown: Myrtle Beach, SC, United States: 05/10/2019
+An Evening With Shinedown: Myrtle Beach, SC, United States: 05/11/2019
+An Evening With Shinedown: Nashville, TN, United States: 05/13/2019
+WNOR Lunatic Luau 2019: Virginia Beach, VA, United States: 05/17/2019
+An Evening With Shinedown: Nashville, TN, United States: 05/14/2019
+MMRBQ: Camden, New Jersey, United States: 05/18/2019
+An Evening With Shinedown: Madison, WI, United States: 05/21/2019
+An Evening With Shinedown: Kansas City, MO, United States: 05/22/2019
+Rocklahoma: Pryor, OK, United States: 05/24/2019
+97.1 The Eagle Rocks #BFD: Dallas, TX, United States: 05/26/2019
+CCNB Amphitheatre at Heritage Park: Simpsonville, SC, United States: 06/23/2019
+Cynthia Woods Mitchell Center for the Arts: Houston, TX, United States: 06/21/2019
+Charlotte Metro Credit Union Amphitheatre: Charlotte, NC, United States: 06/25/2019
+Red Hat Amphitheater: Raleigh, NC, United States: 06/26/2019
+PNC Bank Arts Center: Holmdel, NJ, United States: 06/28/2019
+Maine Savings Pavilion at Rock Row: Westbrook, ME, United States: 06/29/2019
+Bank of New Hampshire Pavilion: Gilford, NH, United States: 07/03/2019
+Rockland Trust Bank Pavilion : Boston, MA, United States: 07/01/2019
+Bethel Woods Center for the Arts: Bethel, NY, United States: 07/05/2019
+St. Joseph’s Health Amphitheater at Lakeview: Syracuse, NY, United States: 07/06/2019
+RBC Echo Beach: Toronto, , Canada: 07/09/2019
+KeyBank Pavilion: Burgettstown, PA, United States: 07/10/2019
+Inkcarceration Festival: Mansfield, OH, United States: 07/12/2019
+Riff Fest: Village Of Clarkston, MI, United States: 07/13/2019
+Hollywood Casino Amphitheatre: Tinley Park, IL, United States: 07/14/2019
+USANA Amphitheatre: West Valley City, UT, United States: 07/18/2019
+Comerica Theatre: Phoenix, AZ, United States: 07/20/2019
+FivePoint Amphitheatre: Irvine, CA, United States: 07/21/2019
+Reno Events Center: Reno, NV, United States: 07/24/2019
+accesso ShoWare Center: Kent, WA, United States: 07/26/2019
+Sunlight Supply Amphitheater: Ridgefield, WA, United States: 07/27/2019
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this,weezer
+     KFC Yum! Center: Louisville, KY, United States: 03/08/2019
+     Colonial Life Arena: Columbia, SC, United States: 03/10/2019
+     Bell Centre: Montréal, , Canada: 03/13/2019
+     Madison Square Garden: New York, NY, United States: 03/12/2019
+     Foxwoods Resort Casino - Grand Theater: Mashantucket, CT, United States: 03/16/2019
+     Royal Farms Arena: Baltimore, MD, United States: 03/17/2019
+     Schottenstein Center: Columbus, OH, United States: 03/19/2019
+     Times Union Center: Albany, NY, United States: 03/14/2019
+     Van Andel Arena: Grand Rapids, MI, United States: 03/20/2019
+     FedEx Forum: Memphis, TN, United States: 03/22/2019
+     Enterprise Center: St. Louis, MO, United States: 03/24/2019
+     Sprint Center: Kansas City, MO, United States: 03/26/2019
+     BOK Center: Tulsa, OK, United States: 03/27/2019
+     Wells Fargo Arena: Des Moines, IA, United States: 03/28/2019
+     Xcel Energy Center: St Paul, MN, United States: 03/30/2019
+     Alliant Energy Center - Veterans Memorial Coliseum: Madison, WI, United States: 03/31/2019
+     Ford Idaho Center Arena: Nampa, ID, United States: 04/05/2019
+     Moda Center: Portland, OR, United States: 04/06/2019
+     Rogers Arena : Vancouver, , Canada: 04/07/2019
+     Golden 1 Center: Sacramento, CA, United States: 04/09/2019
+     Oracle Arena: Oakland, CA, United States: 04/10/2019
+     Mandalay Bay Events Center: Las Vegas, NV, United States: 04/12/2019
+     Coachella: Indio, CA, United States: 04/13/2019
+     Coachella: Indio, CA, United States: 04/20/2019
+     Rock Werchter 2019: Werchter, , Belgium: 06/28/2019
+     O2 Academy Brixton: London, , United Kingdom: 06/29/2019
+     Stadtpark: Hamburg, , Germany: 07/02/2019
+     Tivoli Vredenburg: Utrecht, , Netherlands: 07/04/2019
+     Sonic Park : Bologna, , Italy: 07/07/2019
+     Eurockéennes: Belfort, , France: 07/06/2019
+     Xtra: Zurich, , Switzerland: 07/08/2019
+     NOS Alive Festival: Oeiras, , Portugal: 07/11/2019
+     Bilbao BBK (July 11th-13th, Single Day TBA): Bilbao, , Spain: 07/13/2019
+     Grönan Live: Stockholm, , Sweden: 07/16/2019
+     Bukta Open Air Festival (July 18th-20th, Single Day TBA): Tromsø, , Norway: 07/18/2019
+     Malakoff Festival (July 18th-20th, Single Day TBA): Nordfjordeid (sogn Og Fjordane), , Norway: 07/20/2019
+     Jazz Aspen Snowmass: Snowmass, CO, United States: 08/30/2019
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this,imagine,dragons
+     BottleRock: Napa, CA, United States: 05/24/2019
+     Visarno Arena: Florence, , Italy: 06/02/2019
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this,imagine,dragons
+     Visarno Arena: Florence, , Italy: 06/02/2019
+     BottleRock: Napa, CA, United States: 05/24/2019

@@ -1,34 +1,39 @@
 require("dotenv").config();
-
-var keys = require("./keys.js");
-
-var spotify = new Spotify(keys.spotify);
-
+const fs = require("fs");
 var moment = require('moment');
+// var keys = require("./keys.js");
+var axios = require("axios");
+// var spotify = new Spotify(keys.spotify);
 
-moment().format();
+const log = process.argv;
 
-// Make sure you append each command you run to the `log.txt` file. 
-// Do not overwrite your file each time you run a command.
+fs.appendFile("log.txt", log + "\n", function (err){
+    if (err) throw err;
+});
+
+const query = process.argv[2];
+const variable = process.argv.slice(3).join(" ");
+
+console.log("query is "+query);
+console.log("variable is "+variable);
+if (query === "concert-this"){
+    concertThis(variable);
+} else if (query === "spotify-this-song"){
+    spotifyThisSong(variable);
+} else if (query === "movie-this"){
+    movieThis(variable);
+} else if (query === "do-what-it-says"){
+    doWhatItSays(variable);
+} else {
+    console.log("Command Not Known. Use 'concert-this <artist/band name>', 'spotify-this-song <song name>', 'movie-this <movie title>', or 'do-what-it-says'.")
+}
 
 
+//  SPOTIFY THIS SONG
 
+function spotifyThisSong(){
 
-
-//  Make it so liri.js can take in one of the following commands:
-
-//  `concert-this`
-//  `node liri.js concert-this <artist/band name here>`
-//  This will search the Bands in Town Artist Events API (`"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`) for an artist and render the following information about each event to the terminal:
-//  Name of the venue
-//  Venue location
-//  Date of the Event (use moment to format this as "MM/DD/YYYY")
-
-
-
-
-
-//  `spotify-this-song`
+}
 
 //  `node liri.js spotify-this-song '<song name here>'`
 //      This will show the following information about the song in your terminal/bash window
@@ -65,6 +70,9 @@ moment().format();
 
 
 //  `movie-this`
+function movieThis(){
+
+}
 
 //  `node liri.js movie-this '<movie name here>'`
 //      This will output the following information to your terminal/bash window:
@@ -89,8 +97,53 @@ moment().format();
 
 
 //  `do-what-it-says`
+function doWhatItSays(){
 
+}
 //  `node liri.js do-what-it-says`
 //      Using the `fs` Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 //      It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
 //      Edit the text in random.txt to test out the feature for movie-this and concert-this.
+
+
+
+
+
+// CONCERT THIS ((DONE))
+
+function concertThis(variable){
+    var queryURL = "https://rest.bandsintown.com/artists/" + variable + "/events?app_id=codingbootcamp"
+    axios
+    .get(queryURL).then(
+        function(response) {
+            var concertArray = response.data;
+            for (var i=0; i < concertArray.length; i++){
+                var venue = concertArray[i].venue.name;
+                var city = concertArray[i].venue.city;
+                var region = concertArray[i].venue.region;
+                var country = concertArray[i].venue.country;
+                var date = moment(concertArray[i].datetime).format("MM/DD/YYYY");
+                fs.appendFile("log.txt", "     "+venue+": "+city+", "+region+", "+country+": "+date+"\n", function (err){
+                    if (err) throw err;
+                });
+                console.log("Venue "+i+"")
+                console.log(venue);
+                console.log(city+", "+region+", "+country);
+                console.log(date);
+                console.log("-----------------------------------------")
+            }
+        }
+    )
+    .catch(function(error) {
+        if (error.response) {
+            console.log(error.response.data);
+            console.log(error.response.status);
+            console.log(error.response.headers);
+        } else if (error.request) {
+            console.log(error.request);
+        } else {
+            console.log("Error", error.message);
+        }
+        console.log(error.config);
+    });
+}
