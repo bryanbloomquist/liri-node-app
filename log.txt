@@ -99,3 +99,189 @@ C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app
 C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this,imagine,dragons
      Visarno Arena: Florence, , Italy: 06/02/2019
      BottleRock: Napa, CA, United States: 05/24/2019
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this,imagine,dragons
+     BottleRock: Napa, CA, United States: 05/24/2019
+     Visarno Arena: Florence, , Italy: 06/02/2019
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this,imagine,dragons
+     Visarno Arena: Florence, , Italy: 06/02/2019
+     BottleRock: Napa, CA, United States: 05/24/2019
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,blackbird
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,blackbird
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,blackbird
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,sugar,were,going,down
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this,weezer
+     Madison Square Garden: New York, NY, United States: 03/12/2019
+     Bell Centre: Montréal, , Canada: 03/13/2019
+     KFC Yum! Center: Louisville, KY, United States: 03/08/2019
+     Colonial Life Arena: Columbia, SC, United States: 03/10/2019
+     Foxwoods Resort Casino - Grand Theater: Mashantucket, CT, United States: 03/16/2019
+     Times Union Center: Albany, NY, United States: 03/14/2019
+     Royal Farms Arena: Baltimore, MD, United States: 03/17/2019
+     Schottenstein Center: Columbus, OH, United States: 03/19/2019
+     Van Andel Arena: Grand Rapids, MI, United States: 03/20/2019
+     FedEx Forum: Memphis, TN, United States: 03/22/2019
+     Enterprise Center: St. Louis, MO, United States: 03/24/2019
+     Wells Fargo Arena: Des Moines, IA, United States: 03/28/2019
+     BOK Center: Tulsa, OK, United States: 03/27/2019
+     Xcel Energy Center: St Paul, MN, United States: 03/30/2019
+     Sprint Center: Kansas City, MO, United States: 03/26/2019
+     Alliant Energy Center - Veterans Memorial Coliseum: Madison, WI, United States: 03/31/2019
+     Ford Idaho Center Arena: Nampa, ID, United States: 04/05/2019
+     Moda Center: Portland, OR, United States: 04/06/2019
+     Golden 1 Center: Sacramento, CA, United States: 04/09/2019
+     Rogers Arena : Vancouver, , Canada: 04/07/2019
+     Oracle Arena: Oakland, CA, United States: 04/10/2019
+     Mandalay Bay Events Center: Las Vegas, NV, United States: 04/12/2019
+     Coachella: Indio, CA, United States: 04/13/2019
+     Coachella: Indio, CA, United States: 04/20/2019
+     Rock Werchter 2019: Werchter, , Belgium: 06/28/2019
+     Stadtpark: Hamburg, , Germany: 07/02/2019
+     O2 Academy Brixton: London, , United Kingdom: 06/29/2019
+     Tivoli Vredenburg: Utrecht, , Netherlands: 07/04/2019
+     Eurockéennes: Belfort, , France: 07/06/2019
+     Sonic Park : Bologna, , Italy: 07/07/2019
+     Xtra: Zurich, , Switzerland: 07/08/2019
+     NOS Alive Festival: Oeiras, , Portugal: 07/11/2019
+     Bilbao BBK (July 11th-13th, Single Day TBA): Bilbao, , Spain: 07/13/2019
+     Grönan Live: Stockholm, , Sweden: 07/16/2019
+     Bukta Open Air Festival (July 18th-20th, Single Day TBA): Tromsø, , Norway: 07/18/2019
+     Malakoff Festival (July 18th-20th, Single Day TBA): Nordfjordeid (sogn Og Fjordane), , Norway: 07/20/2019
+     Jazz Aspen Snowmass: Snowmass, CO, United States: 08/30/2019
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
+     undefined
+     Black Shuck
+     Permission To Land
+     https://p.scdn.co/mp3-preview/a4c8610912aa626794976333a309d210eb4b74d7?cid=4da65e19cf55415692abe4d23076608f
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
+     The Darkness
+     Black Shuck
+     Permission To Land
+     https://p.scdn.co/mp3-preview/a4c8610912aa626794976333a309d210eb4b74d7?cid=4da65e19cf55415692abe4d23076608f
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,say,it,aint,so
+     Weezer
+     Say It Ain't So
+     Weezer (Deluxe Edition)
+     null
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
+     The Darkness
+     Black Shuck
+     Permission To Land
+     https://p.scdn.co/mp3-preview/a4c8610912aa626794976333a309d210eb4b74d7?cid=4da65e19cf55415692abe4d23076608f
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
+     The Darkness
+     Black Shuck
+     Permission To Land
+     https://p.scdn.co/mp3-preview/a4c8610912aa626794976333a309d210eb4b74d7?cid=4da65e19cf55415692abe4d23076608f
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
+     The Darkness
+     Black Shuck
+     Permission To Land
+     https://p.scdn.co/mp3-preview/a4c8610912aa626794976333a309d210eb4b74d7?cid=4da65e19cf55415692abe4d23076608f
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song
+     Lil Wayne
+     Scared of the Dark (feat. XXXTENTACION)
+     Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+     null
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song
+     Lil Wayne
+     Scared of the Dark (feat. XXXTENTACION)
+     Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+     null
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song
+     Lil Wayne
+     Scared of the Dark (feat. XXXTENTACION)
+     Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+     null
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song
+     Lil Wayne
+     Scared of the Dark (feat. XXXTENTACION)
+     Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+     null
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song
+     Lil Wayne
+     Scared of the Dark (feat. XXXTENTACION)
+     Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+     null
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this,queen
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this,metallica
+     United Supermarkets Arena: Lubbock, TX, United States: 03/02/2019
+     Don Haskins Center: El Paso, TX, United States: 02/28/2019
+     Sprint Center: Kansas City, MO, United States: 03/06/2019
+     KFC Yum! Center: Louisville, KY, United States: 03/09/2019
+     Bankers Life Fieldhouse: Indianapolis, IN, United States: 03/11/2019
+     Intrust Bank Arena: Wichita, KS, United States: 03/04/2019
+     Van Andel Arena: Grand Rapids, MI, United States: 03/13/2019
+     Estadio do Restelo: Lisbon, , Portugal: 05/01/2019
+     Valdebebas - IFEMA: Madrid, , Spain: 05/03/2019
+     Estadi Olímpic Lluís Companys: Barcelona, , Spain: 05/05/2019
+     Ippodromo Snai - San Siro: Milan, , Italy: 05/08/2019
+     Stadion Letzigrund: Zürich, , Switzerland: 05/10/2019
+     Stade de France: Paris, , France: 05/12/2019
+     SLANE CASTLE: Co. Meath, , Ireland: 06/08/2019
+     Johan Cruijff ArenA: Amsterdam, , Netherlands: 06/11/2019
+     RheinEnergieSTADION: Köln, , Germany: 06/13/2019
+     King Baudouin Stadium: Bruxelles, , Belgium: 06/16/2019
+     Etihad Stadium: Manchester, , United Kingdom: 06/18/2019
+     Twickenham Stadium: London, , United Kingdom: 06/20/2019
+     Olympiastadion: Berlin, , Germany: 07/06/2019
+     Ullevi Restaurant & Conference: Göteborg, , Sweden: 07/09/2019
+     Telia Parken: Copenhagen, , Denmark: 07/11/2019
+     Granasen Arena: Trondheim, , Norway: 07/13/2019
+     KANTOLAN TAPAHTUMAPUISTO: Hameenlinna, , Finland: 07/16/2019
+     Raadi lennuväli: Tartu, , Estonia: 07/18/2019
+     The Luzhniki Stadium: Moscow, , Russia: 07/21/2019
+     NATIONAL ARENA: Bucuresti, , Romania: 08/14/2019
+     Ernst-Happel-Stadion: Wien, , Austria: 08/16/2019
+     Letiště Praha Letňany: Praha, , Czech Republic: 08/18/2019
+     PGE Narodowy: Warszawa, , Poland: 08/21/2019
+     Olympiastadion: Munchen, , Germany: 08/23/2019
+     Maimarkt Gelände: Mannheim, , Germany: 08/25/2019
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song
+     Ace of Base
+     The Sign
+     The Sign (US Album) [Remastered]
+     https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=4da65e19cf55415692abe4d23076608f
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song
+     Ace of Base
+     The Sign
+     The Sign (US Album) [Remastered]
+     https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=4da65e19cf55415692abe4d23076608f
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,star+wars
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,star,wars
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,remember,the,titans
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,remember,the,titans
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,remember,the,titans
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,remember,the,titans
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,remember,the,titans

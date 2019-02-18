@@ -1,9 +1,10 @@
 require("dotenv").config();
 const fs = require("fs");
 var moment = require('moment');
-// var keys = require("./keys.js");
+var keys = require("./keys.js");
 var axios = require("axios");
-// var spotify = new Spotify(keys.spotify);
+var Spotify = require('node-spotify-api');
+var spotify = new Spotify(keys.spotify);
 
 const log = process.argv;
 
@@ -11,9 +12,8 @@ fs.appendFile("log.txt", log + "\n", function (err){
     if (err) throw err;
 });
 
-const query = process.argv[2];
-const variable = process.argv.slice(3).join(" ");
-
+var query = process.argv[2];
+var variable = process.argv.slice(3).join(" ");
 console.log("query is "+query);
 console.log("variable is "+variable);
 if (query === "concert-this"){
@@ -29,71 +29,38 @@ if (query === "concert-this"){
 }
 
 
-//  SPOTIFY THIS SONG
-
-function spotifyThisSong(){
-
-}
-
-//  `node liri.js spotify-this-song '<song name here>'`
-//      This will show the following information about the song in your terminal/bash window
-//          Artist(s)
-//          The song's name
-//          A preview link of the song from Spotify
-//          The album that the song is from
-//      If no song is provided then your program will default to "The Sign" by Ace of Base.
-//      You will utilize the [node-spotify-api](https://www.npmjs.com/package/node-spotify-api) package in order to retrieve song information from the Spotify API.
-//      The Spotify API requires you sign up as a developer to generate the necessary credentials. You can follow these steps in order to generate a **client id** and **client secret**:
-//          Step One: Visit <https://developer.spotify.com/my-applications/#!/>
-//          Step Two: Either login to your existing Spotify account or create a new one (a free account is fine) and log in.
-//          Step Three: Once logged in, navigate to <https://developer.spotify.com/my-applications/#!/applications/create> to register a new application to be used with the Spotify API. You can fill in whatever you'd like for these fields. When finished, click the "complete" button.
-//          Step Four: On the next screen, scroll down to where you see your client id and client secret. Copy these values down somewhere, you'll need them to use the Spotify API and the [node-spotify-api package](https://www.npmjs.com/package/node-spotify-api).
-
-
-// search: function({ type: 'artist OR album OR track', query: 'My search query', limit: 20 }, callback);
-
-// var Spotify = require('node-spotify-api');
-
-// var spotify = new Spotify({
-//     id: <your spotify client id>,
-//     secret: <your spotify client secret>
-// });
-
-// spotify.search({ type: 'track', query: 'All the Small Things' }, function(err, data) {
-//     if (err) {
-//     return console.log('Error occurred: ' + err);
-// }
-
-// console.log(data); 
-// });
-
-
-
 //  `movie-this`
-function movieThis(){
-
+function movieThis(variable){
+    if (!variable){
+        variable = "Mr Nobody";
+    }
+    var queryURL = "http://www.omdb.com/?="+variable+"&y=&plot=short&apikey=trilogy"
+    console.log(queryURL);
+    axios.get(queryURL).then(
+        function(response){
+            var title = response.data.Title;
+            var year = response.data.Year
+            var imdbRating = response.data.Ratings[0].Value;
+            var rottenTomatoes = response.data.Ratings[1].Value;
+            var country = response.data.Country;
+            var language = response.data.Language;
+            var plot = response.data.Plot;
+            var actors = response.data.Actors;
+            fs.appendFile("log.txt", "     "+title+"\n     "+year+"\n     "+imdbRating+"\n     "+rottenTomatoes+"\n     "+country+"\n     "+language+"\n     "+plot+"\n     "+actors+"\n", function (err){
+                if (err) throw err;
+            });
+            console.log("\n"+"Title: "+title);
+            console.log("Year: "+year);
+            console.log("IMDB Rating: "+imdbRating);
+            console.log("Rotten Tomatoes Rating: "+rottenTomatoes);
+            console.log("Country: "+country);
+            console.log("Language: "+language);
+            console.log("Plot: "+plot);
+            console.log("Actors: "+actors);
+            console.log("\n----------------------------------------")
+        }
+    )
 }
-
-//  `node liri.js movie-this '<movie name here>'`
-//      This will output the following information to your terminal/bash window:
-//          Title of the movie.
-//          Year the movie came out.
-//          IMDB Rating of the movie.
-//          Rotten Tomatoes Rating of the movie.
-//          Country where the movie was produced.
-//          Language of the movie.
-//          Plot of the movie.
-//           Actors in the movie.
-//      If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
-//      If you haven't watched "Mr. Nobody," then you should: <http://www.imdb.com/title/tt0485947/>
-//      It's on Netflix!
-//      You'll use the `axios` package to retrieve data from the OMDB API. Like all of the in-class activities, the OMDB API requires an API key. You may use `trilogy`.
-
-
-//  http://www.omdbapi.com/?i=tt3896198&apikey=6cdee2e8
-
-
-
 
 
 //  `do-what-it-says`
@@ -105,16 +72,10 @@ function doWhatItSays(){
 //      It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
 //      Edit the text in random.txt to test out the feature for movie-this and concert-this.
 
-
-
-
-
 // CONCERT THIS ((DONE))
-
 function concertThis(variable){
     var queryURL = "https://rest.bandsintown.com/artists/" + variable + "/events?app_id=codingbootcamp"
-    axios
-    .get(queryURL).then(
+    axios.get(queryURL).then(
         function(response) {
             var concertArray = response.data;
             for (var i=0; i < concertArray.length; i++){
@@ -126,11 +87,10 @@ function concertThis(variable){
                 fs.appendFile("log.txt", "     "+venue+": "+city+", "+region+", "+country+": "+date+"\n", function (err){
                     if (err) throw err;
                 });
-                console.log("Venue "+i+"")
-                console.log(venue);
-                console.log(city+", "+region+", "+country);
-                console.log(date);
-                console.log("-----------------------------------------")
+                console.log("\n"+"Venue: "+venue);
+                console.log("Location: "+city+", "+region+", "+country);
+                console.log("Date: "+date);
+                console.log("\n----------------------------------------")
             }
         }
     )
@@ -145,5 +105,31 @@ function concertThis(variable){
             console.log("Error", error.message);
         }
         console.log(error.config);
+    });
+}
+
+//  SPOTIFY THIS SONG (DONE)
+function spotifyThisSong(variable){
+    if (!variable){
+        variable = "the sign ace of base";
+    }
+    spotify
+    .search({ type: 'track', query: variable, limit: 1})
+    .then(function(response){
+        var artist = response.tracks.items[0].artists[0].name;
+        var title = response.tracks.items[0].name;
+        var preview = response.tracks.items[0].preview_url;
+        var album = response.tracks.items[0].album.name;
+        fs.appendFile("log.txt", "     "+artist+"\n     "+title+"\n     "+album+"\n     "+preview+"\n", function (err){
+            if (err) throw err;
+        });
+        console.log("\n"+"Artist: "+artist);
+        console.log("Song Title: "+title);
+        console.log("Album: "+album);
+        console.log("Song Preview: "+preview);
+        console.log("\n----------------------------------------")
+    })
+    .catch(function(err){
+        console.log(err);
     });
 }
