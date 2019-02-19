@@ -1,287 +1,251 @@
+
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,do-what-it-says
+
+     Anthem Lights  :  I Want It That Way  :  Covers Part IV
+          https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=4da65e19cf55415692abe4d23076608f
+
+     Backstreet Boys  :  I Want It That Way  :  The Hits--Chapter One
+          https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=4da65e19cf55415692abe4d23076608f
+
+     Backstreet Boys  :  I Want It That Way  :  Millennium
+          https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=4da65e19cf55415692abe4d23076608f
+
+     Tyler and Mark  :  I Want It That Way  :  Beautiful Dreams
+          https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=4da65e19cf55415692abe4d23076608f
+
+     "Weird Al" Yankovic  :  Ebay (Parody of "I Want It That Way" by the Backstreet Boys)  :  Poodle Hat
+          https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=4da65e19cf55415692abe4d23076608f
+
+     Dynamite Boy  :  I Want It That Way  :  Punk Goes Pop
+          null
+
+     Backstreet Boys  :  I Want It That Way  :  90 Sweet 90s Hits!
+          https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=4da65e19cf55415692abe4d23076608f
+
+     Backstreet Boys  :  I Want It That Way  :  NKOTBSB
+          https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=4da65e19cf55415692abe4d23076608f
+
+     Glee Cast  :  Bye Bye Bye / I Want It That Way (Glee Cast Version)  :  Bye Bye Bye / I Want It That Way (Glee Cast Version)
+          https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=4da65e19cf55415692abe4d23076608f
+
+     Manuel Costa  :  I Want It That Way  :  I Want It That Way
+          https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=4da65e19cf55415692abe4d23076608f
+
+     Boyce Avenue  :  I Want It That Way  :  Cover Sessions, Vol. 2
+          https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=4da65e19cf55415692abe4d23076608f
+
+     Steel Panther  :  I Want It That Way  :  I Want It That Way
+          null
+
+     Scott Bradlee's Postmodern Jukebox  :  I Want It That Way  :  Selfies on Kodachrome
+          https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=4da65e19cf55415692abe4d23076608f
+
+     Scary Pockets  :  I Want It That Way  :  Nu Funk
+          https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=4da65e19cf55415692abe4d23076608f
+
+     "Weird Al" Yankovic  :  Ebay (Parody of "I Want It That Way" by the Backstreet Boys)  :  The Essential "Weird Al" Yankovic
+          https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=4da65e19cf55415692abe4d23076608f
+
+     Backstreet Boys  :  I Want It That Way  :  NOW That's What I Call 90s Pop
+          https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=4da65e19cf55415692abe4d23076608f
+
+     Kyle Olthoff  :  I Want It That Way  :  I Want It That Way
+          https://p.scdn.co/mp3-preview/bb5d73d1bfe8a8b38cd5278112c7022599464c67?cid=4da65e19cf55415692abe4d23076608f
+
+     Marcelo Rezende  :  I Want It That Way  :  Ballads in Bossa (The Colors of Love Ballads)
+          https://p.scdn.co/mp3-preview/e917efb886afa262114a59cbdbdb6fe8bef57583?cid=4da65e19cf55415692abe4d23076608f
+
+     Scott Bradlee's Postmodern Jukebox  :  I Want It That Way  :  PMJ Is For Lovers: The Love Song Collection
+          https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=4da65e19cf55415692abe4d23076608f
+
+     #90s Update  :  I Want It That Way  :  #90s Update
+          https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=4da65e19cf55415692abe4d23076608f
+
 C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this,shinedown
-The Crown Coliseum: Fayetteville, NC, United States: 02/22/2019
-Knoxville Civic Auditorium and Coliseum: Knoxville, TN, United States: 02/23/2019
-Hertz Arena: Estero, FL, United States: 02/20/2019
-Big Sandy Superstore Arena: Huntington, WV, United States: 02/24/2019
-UMBC Event Center: Baltimore, MD, United States: 02/28/2019
-Giant Center: Hershey, PA, United States: 03/01/2019
-WSU Nutter Center: Fairborn, OH, United States: 02/26/2019
-Mohegan Sun Arena: Uncasville, CT, United States: 03/02/2019
-Covelli Centre: Youngstown, OH, United States: 03/05/2019
-Allen County War Memorial Coliseum: Fort Wayne, IN, United States: 03/07/2019
-Fiserv Forum: Milwaukee, WI, United States: 03/08/2019
-Brown County Veterans Memorial Arena: Green Bay, WI, United States: 03/09/2019
-Target Center: Minneapolis, MN, United States: 03/11/2019
-FargoDome: Fargo, ND, United States: 03/12/2019
-Pinnacle Bank Arena: Lincoln, NE, United States: 03/15/2019
-U.S. Cellular Center : Cedar Rapids, IA, United States: 03/16/2019
-Chaifetz Arena: St. Louis, MO, United States: 03/17/2019
-INTRUST Bank Arena: Wichita, KS, United States: 03/19/2019
-Budweiser Events Center: Loveland, CO, United States: 03/20/2019
-KFMA Day: Tucson, AZ, United States: 03/23/2019
-Beale Street Music Festival: Memphis, TN, United States: 05/03/2019
-Welcome To Rockville: Jacksonville, FL, United States: 05/04/2019
-An Evening With Shinedown: New Orleans, LA, United States: 05/06/2019
-An Evening With Shinedown: Atlanta, GA, United States: 05/07/2019
-An Evening With Shinedown: Atlanta, GA, United States: 05/08/2019
-An Evening With Shinedown: Myrtle Beach, SC, United States: 05/10/2019
-An Evening With Shinedown: Myrtle Beach, SC, United States: 05/11/2019
-An Evening With Shinedown: Nashville, TN, United States: 05/13/2019
-WNOR Lunatic Luau 2019: Virginia Beach, VA, United States: 05/17/2019
-An Evening With Shinedown: Nashville, TN, United States: 05/14/2019
-MMRBQ: Camden, New Jersey, United States: 05/18/2019
-An Evening With Shinedown: Madison, WI, United States: 05/21/2019
-An Evening With Shinedown: Kansas City, MO, United States: 05/22/2019
-Rocklahoma: Pryor, OK, United States: 05/24/2019
-97.1 The Eagle Rocks #BFD: Dallas, TX, United States: 05/26/2019
-CCNB Amphitheatre at Heritage Park: Simpsonville, SC, United States: 06/23/2019
-Cynthia Woods Mitchell Center for the Arts: Houston, TX, United States: 06/21/2019
-Charlotte Metro Credit Union Amphitheatre: Charlotte, NC, United States: 06/25/2019
-Red Hat Amphitheater: Raleigh, NC, United States: 06/26/2019
-PNC Bank Arts Center: Holmdel, NJ, United States: 06/28/2019
-Maine Savings Pavilion at Rock Row: Westbrook, ME, United States: 06/29/2019
-Bank of New Hampshire Pavilion: Gilford, NH, United States: 07/03/2019
-Rockland Trust Bank Pavilion : Boston, MA, United States: 07/01/2019
-Bethel Woods Center for the Arts: Bethel, NY, United States: 07/05/2019
-St. Joseph’s Health Amphitheater at Lakeview: Syracuse, NY, United States: 07/06/2019
-RBC Echo Beach: Toronto, , Canada: 07/09/2019
-KeyBank Pavilion: Burgettstown, PA, United States: 07/10/2019
-Inkcarceration Festival: Mansfield, OH, United States: 07/12/2019
-Riff Fest: Village Of Clarkston, MI, United States: 07/13/2019
-Hollywood Casino Amphitheatre: Tinley Park, IL, United States: 07/14/2019
-USANA Amphitheatre: West Valley City, UT, United States: 07/18/2019
-Comerica Theatre: Phoenix, AZ, United States: 07/20/2019
-FivePoint Amphitheatre: Irvine, CA, United States: 07/21/2019
-Reno Events Center: Reno, NV, United States: 07/24/2019
-accesso ShoWare Center: Kent, WA, United States: 07/26/2019
-Sunlight Supply Amphitheater: Ridgefield, WA, United States: 07/27/2019
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this,weezer
-     KFC Yum! Center: Louisville, KY, United States: 03/08/2019
-     Colonial Life Arena: Columbia, SC, United States: 03/10/2019
-     Bell Centre: Montréal, , Canada: 03/13/2019
-     Madison Square Garden: New York, NY, United States: 03/12/2019
-     Foxwoods Resort Casino - Grand Theater: Mashantucket, CT, United States: 03/16/2019
-     Royal Farms Arena: Baltimore, MD, United States: 03/17/2019
-     Schottenstein Center: Columbus, OH, United States: 03/19/2019
-     Times Union Center: Albany, NY, United States: 03/14/2019
-     Van Andel Arena: Grand Rapids, MI, United States: 03/20/2019
-     FedEx Forum: Memphis, TN, United States: 03/22/2019
-     Enterprise Center: St. Louis, MO, United States: 03/24/2019
-     Sprint Center: Kansas City, MO, United States: 03/26/2019
-     BOK Center: Tulsa, OK, United States: 03/27/2019
-     Wells Fargo Arena: Des Moines, IA, United States: 03/28/2019
-     Xcel Energy Center: St Paul, MN, United States: 03/30/2019
-     Alliant Energy Center - Veterans Memorial Coliseum: Madison, WI, United States: 03/31/2019
-     Ford Idaho Center Arena: Nampa, ID, United States: 04/05/2019
-     Moda Center: Portland, OR, United States: 04/06/2019
-     Rogers Arena : Vancouver, , Canada: 04/07/2019
-     Golden 1 Center: Sacramento, CA, United States: 04/09/2019
-     Oracle Arena: Oakland, CA, United States: 04/10/2019
-     Mandalay Bay Events Center: Las Vegas, NV, United States: 04/12/2019
-     Coachella: Indio, CA, United States: 04/13/2019
-     Coachella: Indio, CA, United States: 04/20/2019
-     Rock Werchter 2019: Werchter, , Belgium: 06/28/2019
-     O2 Academy Brixton: London, , United Kingdom: 06/29/2019
-     Stadtpark: Hamburg, , Germany: 07/02/2019
-     Tivoli Vredenburg: Utrecht, , Netherlands: 07/04/2019
-     Sonic Park : Bologna, , Italy: 07/07/2019
-     Eurockéennes: Belfort, , France: 07/06/2019
-     Xtra: Zurich, , Switzerland: 07/08/2019
-     NOS Alive Festival: Oeiras, , Portugal: 07/11/2019
-     Bilbao BBK (July 11th-13th, Single Day TBA): Bilbao, , Spain: 07/13/2019
-     Grönan Live: Stockholm, , Sweden: 07/16/2019
-     Bukta Open Air Festival (July 18th-20th, Single Day TBA): Tromsø, , Norway: 07/18/2019
-     Malakoff Festival (July 18th-20th, Single Day TBA): Nordfjordeid (sogn Og Fjordane), , Norway: 07/20/2019
-     Jazz Aspen Snowmass: Snowmass, CO, United States: 08/30/2019
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this,imagine,dragons
-     BottleRock: Napa, CA, United States: 05/24/2019
-     Visarno Arena: Florence, , Italy: 06/02/2019
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this,imagine,dragons
-     Visarno Arena: Florence, , Italy: 06/02/2019
-     BottleRock: Napa, CA, United States: 05/24/2019
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this,imagine,dragons
-     BottleRock: Napa, CA, United States: 05/24/2019
-     Visarno Arena: Florence, , Italy: 06/02/2019
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this,imagine,dragons
-     Visarno Arena: Florence, , Italy: 06/02/2019
-     BottleRock: Napa, CA, United States: 05/24/2019
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,blackbird
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,blackbird
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,blackbird
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,sugar,were,going,down
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this,weezer
-     Madison Square Garden: New York, NY, United States: 03/12/2019
-     Bell Centre: Montréal, , Canada: 03/13/2019
-     KFC Yum! Center: Louisville, KY, United States: 03/08/2019
-     Colonial Life Arena: Columbia, SC, United States: 03/10/2019
-     Foxwoods Resort Casino - Grand Theater: Mashantucket, CT, United States: 03/16/2019
-     Times Union Center: Albany, NY, United States: 03/14/2019
-     Royal Farms Arena: Baltimore, MD, United States: 03/17/2019
-     Schottenstein Center: Columbus, OH, United States: 03/19/2019
-     Van Andel Arena: Grand Rapids, MI, United States: 03/20/2019
-     FedEx Forum: Memphis, TN, United States: 03/22/2019
-     Enterprise Center: St. Louis, MO, United States: 03/24/2019
-     Wells Fargo Arena: Des Moines, IA, United States: 03/28/2019
-     BOK Center: Tulsa, OK, United States: 03/27/2019
-     Xcel Energy Center: St Paul, MN, United States: 03/30/2019
-     Sprint Center: Kansas City, MO, United States: 03/26/2019
-     Alliant Energy Center - Veterans Memorial Coliseum: Madison, WI, United States: 03/31/2019
-     Ford Idaho Center Arena: Nampa, ID, United States: 04/05/2019
-     Moda Center: Portland, OR, United States: 04/06/2019
-     Golden 1 Center: Sacramento, CA, United States: 04/09/2019
-     Rogers Arena : Vancouver, , Canada: 04/07/2019
-     Oracle Arena: Oakland, CA, United States: 04/10/2019
-     Mandalay Bay Events Center: Las Vegas, NV, United States: 04/12/2019
-     Coachella: Indio, CA, United States: 04/13/2019
-     Coachella: Indio, CA, United States: 04/20/2019
-     Rock Werchter 2019: Werchter, , Belgium: 06/28/2019
-     Stadtpark: Hamburg, , Germany: 07/02/2019
-     O2 Academy Brixton: London, , United Kingdom: 06/29/2019
-     Tivoli Vredenburg: Utrecht, , Netherlands: 07/04/2019
-     Eurockéennes: Belfort, , France: 07/06/2019
-     Sonic Park : Bologna, , Italy: 07/07/2019
-     Xtra: Zurich, , Switzerland: 07/08/2019
-     NOS Alive Festival: Oeiras, , Portugal: 07/11/2019
-     Bilbao BBK (July 11th-13th, Single Day TBA): Bilbao, , Spain: 07/13/2019
-     Grönan Live: Stockholm, , Sweden: 07/16/2019
-     Bukta Open Air Festival (July 18th-20th, Single Day TBA): Tromsø, , Norway: 07/18/2019
-     Malakoff Festival (July 18th-20th, Single Day TBA): Nordfjordeid (sogn Og Fjordane), , Norway: 07/20/2019
-     Jazz Aspen Snowmass: Snowmass, CO, United States: 08/30/2019
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
-     undefined
-     Black Shuck
-     Permission To Land
-     https://p.scdn.co/mp3-preview/a4c8610912aa626794976333a309d210eb4b74d7?cid=4da65e19cf55415692abe4d23076608f
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
-     The Darkness
-     Black Shuck
-     Permission To Land
-     https://p.scdn.co/mp3-preview/a4c8610912aa626794976333a309d210eb4b74d7?cid=4da65e19cf55415692abe4d23076608f
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,say,it,aint,so
-     Weezer
-     Say It Ain't So
-     Weezer (Deluxe Edition)
-     null
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
-     The Darkness
-     Black Shuck
-     Permission To Land
-     https://p.scdn.co/mp3-preview/a4c8610912aa626794976333a309d210eb4b74d7?cid=4da65e19cf55415692abe4d23076608f
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
-     The Darkness
-     Black Shuck
-     Permission To Land
-     https://p.scdn.co/mp3-preview/a4c8610912aa626794976333a309d210eb4b74d7?cid=4da65e19cf55415692abe4d23076608f
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,black,shuck
-     The Darkness
-     Black Shuck
-     Permission To Land
-     https://p.scdn.co/mp3-preview/a4c8610912aa626794976333a309d210eb4b74d7?cid=4da65e19cf55415692abe4d23076608f
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song
-     Lil Wayne
-     Scared of the Dark (feat. XXXTENTACION)
-     Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
-     null
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song
-     Lil Wayne
-     Scared of the Dark (feat. XXXTENTACION)
-     Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
-     null
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song
-     Lil Wayne
-     Scared of the Dark (feat. XXXTENTACION)
-     Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
-     null
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song
-     Lil Wayne
-     Scared of the Dark (feat. XXXTENTACION)
-     Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
-     null
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song
-     Lil Wayne
-     Scared of the Dark (feat. XXXTENTACION)
-     Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
-     null
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this,queen
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,concert-this,metallica
-     United Supermarkets Arena: Lubbock, TX, United States: 03/02/2019
-     Don Haskins Center: El Paso, TX, United States: 02/28/2019
-     Sprint Center: Kansas City, MO, United States: 03/06/2019
-     KFC Yum! Center: Louisville, KY, United States: 03/09/2019
-     Bankers Life Fieldhouse: Indianapolis, IN, United States: 03/11/2019
-     Intrust Bank Arena: Wichita, KS, United States: 03/04/2019
-     Van Andel Arena: Grand Rapids, MI, United States: 03/13/2019
-     Estadio do Restelo: Lisbon, , Portugal: 05/01/2019
-     Valdebebas - IFEMA: Madrid, , Spain: 05/03/2019
-     Estadi Olímpic Lluís Companys: Barcelona, , Spain: 05/05/2019
-     Ippodromo Snai - San Siro: Milan, , Italy: 05/08/2019
-     Stadion Letzigrund: Zürich, , Switzerland: 05/10/2019
-     Stade de France: Paris, , France: 05/12/2019
-     SLANE CASTLE: Co. Meath, , Ireland: 06/08/2019
-     Johan Cruijff ArenA: Amsterdam, , Netherlands: 06/11/2019
-     RheinEnergieSTADION: Köln, , Germany: 06/13/2019
-     King Baudouin Stadium: Bruxelles, , Belgium: 06/16/2019
-     Etihad Stadium: Manchester, , United Kingdom: 06/18/2019
-     Twickenham Stadium: London, , United Kingdom: 06/20/2019
-     Olympiastadion: Berlin, , Germany: 07/06/2019
-     Ullevi Restaurant & Conference: Göteborg, , Sweden: 07/09/2019
-     Telia Parken: Copenhagen, , Denmark: 07/11/2019
-     Granasen Arena: Trondheim, , Norway: 07/13/2019
-     KANTOLAN TAPAHTUMAPUISTO: Hameenlinna, , Finland: 07/16/2019
-     Raadi lennuväli: Tartu, , Estonia: 07/18/2019
-     The Luzhniki Stadium: Moscow, , Russia: 07/21/2019
-     NATIONAL ARENA: Bucuresti, , Romania: 08/14/2019
-     Ernst-Happel-Stadion: Wien, , Austria: 08/16/2019
-     Letiště Praha Letňany: Praha, , Czech Republic: 08/18/2019
-     PGE Narodowy: Warszawa, , Poland: 08/21/2019
-     Olympiastadion: Munchen, , Germany: 08/23/2019
-     Maimarkt Gelände: Mannheim, , Germany: 08/25/2019
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song
-     Ace of Base
-     The Sign
-     The Sign (US Album) [Remastered]
-     https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=4da65e19cf55415692abe4d23076608f
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song
-     Ace of Base
-     The Sign
-     The Sign (US Album) [Remastered]
-     https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=4da65e19cf55415692abe4d23076608f
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,the,matrix
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,star+wars
+
+     Big Sandy Superstore Arena: Huntington, WV, United States: 02/24/2019
+
+     Knoxville Civic Auditorium and Coliseum: Knoxville, TN, United States: 02/23/2019
+
+     The Crown Coliseum: Fayetteville, NC, United States: 02/22/2019
+
+     Hertz Arena: Estero, FL, United States: 02/20/2019
+
+     WSU Nutter Center: Fairborn, OH, United States: 02/26/2019
+
+     UMBC Event Center: Baltimore, MD, United States: 02/28/2019
+
+     Giant Center: Hershey, PA, United States: 03/01/2019
+
+     Covelli Centre: Youngstown, OH, United States: 03/05/2019
+
+     Mohegan Sun Arena: Uncasville, CT, United States: 03/02/2019
+
+     Allen County War Memorial Coliseum: Fort Wayne, IN, United States: 03/07/2019
+
+     Fiserv Forum: Milwaukee, WI, United States: 03/08/2019
+
+     Brown County Veterans Memorial Arena: Green Bay, WI, United States: 03/09/2019
+
+     FargoDome: Fargo, ND, United States: 03/12/2019
+
+     Target Center: Minneapolis, MN, United States: 03/11/2019
+
+     Pinnacle Bank Arena: Lincoln, NE, United States: 03/15/2019
+
+     U.S. Cellular Center : Cedar Rapids, IA, United States: 03/16/2019
+
+     Chaifetz Arena: St. Louis, MO, United States: 03/17/2019
+
+     INTRUST Bank Arena: Wichita, KS, United States: 03/19/2019
+
+     Budweiser Events Center: Loveland, CO, United States: 03/20/2019
+
+     KFMA Day: Tucson, AZ, United States: 03/23/2019
+
+     Beale Street Music Festival: Memphis, TN, United States: 05/03/2019
+
+     Welcome To Rockville: Jacksonville, FL, United States: 05/04/2019
+
+     An Evening With Shinedown: New Orleans, LA, United States: 05/06/2019
+
+     An Evening With Shinedown: Atlanta, GA, United States: 05/07/2019
+
+     An Evening With Shinedown: Atlanta, GA, United States: 05/08/2019
+
+     An Evening With Shinedown: Myrtle Beach, SC, United States: 05/10/2019
+
+     An Evening With Shinedown: Myrtle Beach, SC, United States: 05/11/2019
+
+     An Evening With Shinedown: Nashville, TN, United States: 05/13/2019
+
+     An Evening With Shinedown: Nashville, TN, United States: 05/14/2019
+
+     WNOR Lunatic Luau 2019: Virginia Beach, VA, United States: 05/17/2019
+
+     MMRBQ: Camden, New Jersey, United States: 05/18/2019
+
+     An Evening With Shinedown: Madison, WI, United States: 05/21/2019
+
+     An Evening With Shinedown: Kansas City, MO, United States: 05/22/2019
+
+     Rocklahoma: Pryor, OK, United States: 05/24/2019
+
+     97.1 The Eagle Rocks #BFD: Dallas, TX, United States: 05/26/2019
+
+     Cynthia Woods Mitchell Center for the Arts: Houston, TX, United States: 06/21/2019
+
+     CCNB Amphitheatre at Heritage Park: Simpsonville, SC, United States: 06/23/2019
+
+     Charlotte Metro Credit Union Amphitheatre: Charlotte, NC, United States: 06/25/2019
+
+     Red Hat Amphitheater: Raleigh, NC, United States: 06/26/2019
+
+     PNC Bank Arts Center: Holmdel, NJ, United States: 06/28/2019
+
+     Maine Savings Pavilion at Rock Row: Westbrook, ME, United States: 06/29/2019
+
+     Rockland Trust Bank Pavilion : Boston, MA, United States: 07/01/2019
+
+     Bank of New Hampshire Pavilion: Gilford, NH, United States: 07/03/2019
+
+     Bethel Woods Center for the Arts: Bethel, NY, United States: 07/05/2019
+
+     St. Joseph’s Health Amphitheater at Lakeview: Syracuse, NY, United States: 07/06/2019
+
+     RBC Echo Beach: Toronto, , Canada: 07/09/2019
+
+     KeyBank Pavilion: Burgettstown, PA, United States: 07/10/2019
+
+     Inkcarceration Festival: Mansfield, OH, United States: 07/12/2019
+
+     Riff Fest: Village Of Clarkston, MI, United States: 07/13/2019
+
+     Hollywood Casino Amphitheatre: Tinley Park, IL, United States: 07/14/2019
+
+     USANA Amphitheatre: West Valley City, UT, United States: 07/18/2019
+
+     Comerica Theatre: Phoenix, AZ, United States: 07/20/2019
+
+     Reno Events Center: Reno, NV, United States: 07/24/2019
+
+     FivePoint Amphitheatre: Irvine, CA, United States: 07/21/2019
+
+     accesso ShoWare Center: Kent, WA, United States: 07/26/2019
+
+     Sunlight Supply Amphitheater: Ridgefield, WA, United States: 07/27/2019
+
 C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,star,wars
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,remember,the,titans
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,remember,the,titans
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,remember,the,titans
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,remember,the,titans
-C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,movie-this,remember,the,titans
+
+     Star Wars: Episode IV - A New Hope
+     1977
+     8.6/10
+     93%
+     USA
+     English
+     Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.
+     Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing
+
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,our,lawyer,asked,us
+
+C:\Program Files\nodejs\node.exe,C:\Users\Admin\Desktop\class-work\liri-node-app\liri.js,spotify-this-song,grease,lightning
+
+     Sandra Taylor  :  Greased Lightning (From "Grease")  :  Cine: Grease
+          https://p.scdn.co/mp3-preview/33514a678a940980b66cf6635bfe07cad2539e04?cid=4da65e19cf55415692abe4d23076608f
+
+     The Fire Of Dance Ensemble  :  Grease Lightning (Grease)  :  Fire Of Dance
+          https://p.scdn.co/mp3-preview/146bd43054406ac08f3fc4063563f4472679c14e?cid=4da65e19cf55415692abe4d23076608f
+
+     Tony Ray  :  Grease lightning  :  Sex Bomb Compilation
+          https://p.scdn.co/mp3-preview/d4db7ac8207fd3ee20e5577853a7be6a406600ee?cid=4da65e19cf55415692abe4d23076608f
+
+     Craig McLachlan  :  Greased Lightning  :  Grease
+          https://p.scdn.co/mp3-preview/8ea7c48ff870149c98b9ca83c3b48426de1ccd66?cid=4da65e19cf55415692abe4d23076608f
+
+     Tony Ray  :  Grease Lightning  :  Jukebox
+          https://p.scdn.co/mp3-preview/d4db7ac8207fd3ee20e5577853a7be6a406600ee?cid=4da65e19cf55415692abe4d23076608f
+
+     Various Artists  :  Greased Lightning (from "Grease")  :  Greatest Movie Songs
+          https://p.scdn.co/mp3-preview/cf15c3973d2b730953a97e89a0e89233965aad3d?cid=4da65e19cf55415692abe4d23076608f
+
+     Various Artists  :  Greased Lightning (from "Grease")  :  Movie Songs
+          https://p.scdn.co/mp3-preview/cf15c3973d2b730953a97e89a0e89233965aad3d?cid=4da65e19cf55415692abe4d23076608f
+
+     The Musical Singers  :  Greased Lightning (From: 'Grease')  :  I Like Musicals, Vol. 3
+          https://p.scdn.co/mp3-preview/609998039eb1c0b314f4afdd40004bfea387ef60?cid=4da65e19cf55415692abe4d23076608f
+
+     Various Artists  :  Greased Lightning (from "Grease")  :  Movie Music
+          https://p.scdn.co/mp3-preview/cf15c3973d2b730953a97e89a0e89233965aad3d?cid=4da65e19cf55415692abe4d23076608f
+
+     Various Artists  :  Greased Lightning (from "Grease")  :  Movie Essentials
+          https://p.scdn.co/mp3-preview/cf15c3973d2b730953a97e89a0e89233965aad3d?cid=4da65e19cf55415692abe4d23076608f
+
+     The High School Dropouts  :  Greased Lightning - From "Grease"  :  We Love Grease
+          https://p.scdn.co/mp3-preview/155bd0dccccc1b8db771e7147c75ca797ed5a857?cid=4da65e19cf55415692abe4d23076608f
+
+     London Theatre Orchestra & Cast  :  Greased Lightning (From "Grease")  :  Rockin' & Rollin' Showstoppers
+          https://p.scdn.co/mp3-preview/292222dbb3f9c8aa369b878c2fb7427cbe34e7c7?cid=4da65e19cf55415692abe4d23076608f
+
+     Warren Casey  :  Grease: "Greased Lightning"  :  AMEB Piano for Leisure Series 4 Grade 2
+          https://p.scdn.co/mp3-preview/948b2cf5d763510a0fa3ae7f29f3ec01ea24dd65?cid=4da65e19cf55415692abe4d23076608f
+
+     Los Inhumanos  :  Brillantina - Grease Lightning  :  Directum Tremens
+          https://p.scdn.co/mp3-preview/8455d438f153f92317c05eaa57703ad555c2e7ef?cid=4da65e19cf55415692abe4d23076608f
+
+     Various Artists  :  Greased Lightning (from "Grease")  :  Movie Hits
+          https://p.scdn.co/mp3-preview/cf15c3973d2b730953a97e89a0e89233965aad3d?cid=4da65e19cf55415692abe4d23076608f
+
+     West End Orchestra and Singers  :  Greased Lightning  :  Grease
+          https://p.scdn.co/mp3-preview/ef2762720e5b207f1b67f55e99e311136708907f?cid=4da65e19cf55415692abe4d23076608f
+
+     Paul Collis  :  Greased Lightning  :  Grease
+          https://p.scdn.co/mp3-preview/94546bfb1567ce85c572dc21838694f479c0ace8?cid=4da65e19cf55415692abe4d23076608f
+
+     The Allen Starr Musical Theatre  :  Greased Lightning  :  Grease
+          https://p.scdn.co/mp3-preview/e6230f67294dd424a858cb258340ed7a00f39fa7?cid=4da65e19cf55415692abe4d23076608f
+
+     L.Bow Grease  :  Elbow Grease  :  Greased Lightning
+          https://p.scdn.co/mp3-preview/69dadd1ea32bca61a5de8045c1ee4817a95f1bbe?cid=4da65e19cf55415692abe4d23076608f
+
+     Peace and the City Grease  :  Lightning  :  Lightning
+          https://p.scdn.co/mp3-preview/6c82d4445b879a6fab86623cb1b48e8c2833bb75?cid=4da65e19cf55415692abe4d23076608f
