@@ -14,8 +14,6 @@ fs.appendFile("log.txt","\n"+log+"\n", function (err){
 
 var query = process.argv[2];
 var variable = process.argv.slice(3).join(" ");
-console.log("query is "+query);
-console.log("variable is "+variable);
 
 runCommand();
 
@@ -35,7 +33,7 @@ function runCommand(){
 
 // CONCERT-THIS
 function concertThis(variable){
-    var queryURL = "https://rest.bandsintown.com/artists/" + variable + "/events?app_id=codingbootcamp"
+    var queryURL = "https://rest.bandsintown.com/artists/"+variable+"/events?app_id=codingbootcamp"
     axios.get(queryURL).then(
         function(response) {
             var concertArray = response.data;
@@ -69,7 +67,7 @@ function concertThis(variable){
     });
 }
 
-//  SPOTIFY-THIS-SONG
+// SPOTIFY-THIS-SONG
 function spotifyThisSong(variable){
     if (!variable){
         variable = "the sign ace of base";
@@ -98,7 +96,7 @@ function spotifyThisSong(variable){
     });
 }
 
-//  MOVIE-THIS
+// MOVIE-THIS
 function movieThis(variable){
     if (!variable){
         variable = "Mr Nobody";
@@ -140,8 +138,6 @@ function doWhatItSays(){
         var dataArr = data.split(",");
         query = dataArr[0];
         variable = (dataArr.slice(1).join(" ")).replace(/['"]+/g, '');
-        console.log("query is "+query);
-        console.log("variable is "+variable);
         runCommand();
     })
 }
