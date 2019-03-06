@@ -32,7 +32,7 @@ If you haven't written a markdown file yet, [click here for a rundown](https://g
 
      * Date of the Event (use moment to format this as "MM/DD/YYYY")
 
-    ![alt text](concert-this.png)
+    ![Concert This Screenshot](concert-this.png)
 
 2. `node liri.js spotify-this-song '<song name here>'`
 
@@ -48,7 +48,7 @@ If you haven't written a markdown file yet, [click here for a rundown](https://g
 
    * If no song is provided then your program will default to "The Sign" by Ace of Base.
 
-    ![alt text](spotify-this-song.png)
+    ![Spotify This Screenshot](spotify-this-song.png)
 
 3. `node liri.js movie-this '<movie name here>'`
 
@@ -66,7 +66,7 @@ If you haven't written a markdown file yet, [click here for a rundown](https://g
     ```
    * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
-    ![alt text](movie-this.png)
+    ![Movie This Screenshot](movie-this.png)
 
 4. `node liri.js do-what-it-says`
 
@@ -74,7 +74,7 @@ If you haven't written a markdown file yet, [click here for a rundown](https://g
 
      * It should run `spotify-this-song` for "I Want it That Way," as follows the text in `random.txt`.
 
-    ![alt text](do-what-it-says.png)
+    ![Do What It Says Screenshot](do-what-it-says.png)
 
 ### BONUS
 
